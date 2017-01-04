@@ -1,26 +1,70 @@
 [
-  {
-    "repository": "android_device_oppo_common",
-    "target_path": "device/oppo/common"
-  },
-  {
-    "repository": "android_kernel_oneplus_msm8996",
-    "target_path": "kernel/oneplus/msm8996"
-  },
-  {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
-  },
-  {
-    "repository": "android_vendor_nxp-nfc_opensource_frameworks",
-    "target_path": "vendor/nxp-nfc/opensource/frameworks"
-  },
-  {
-    "repository": "android_vendor_nxp-nfc_opensource_libnfc-nci",
-    "target_path": "vendor/nxp-nfc/opensource/libnfc-nci"
-  },
-  {
-    "repository": "android_vendor_nxp-nfc_opensource_Nfc",
-    "target_path": "vendor/nxp-nfc/opensource/Nfc"
-  }
+ {
+   "repository" : "DirtyUnicorns/android_device_oppo_common",
+   "target_path": "device/oppo/common",
+   "branch"     :  "n7x-caf"
+ },
+ {
+   "repository" : "android_kernel_oneplus_msm8996",
+   "target_path": "kernel/oneplus/msm8996",
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_frameworks",
+   "target_path": "vendor/nxp-nfc/opensource/frameworks",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_libnfc-nci",
+   "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_Nfc",
+   "target_path": "vendor/nxp-nfc/opensource/Nfc",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_connectivity",
+   "target_path": "external/connectivity",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_qcom_opensource_dataservices",
+   "target_path": "vendor/qcom/opensource/dataservices",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_system_qcom",
+   "target_path": "system/qcom",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_ant_service",
+   "target_path": "external/ant-wireless/ant_service",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_ant_native",
+   "target_path": "external/ant-wireless/ant_native",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_antradio-library",
+   "target_path": "external/ant-wireless/antradio-library",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_libnetfilter_conntrack",
+   "target_path": "external/libnetfilter_conntrack",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_libnfnetlink",
+   "target_path": "external/libnfnetlink",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "android_vendor_oneplus",
+   "target_path": "vendor/oneplus",
+ }
 ]
